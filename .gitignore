@@ -1,0 +1,27 @@
+# Secrets and environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+secrets/
+
+# Live operational material
+backups/
+exports/
+logs/
+telemetry/
+*.pcap
+*.pcapng
+*.sqlite
+*.db
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]

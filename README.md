@@ -30,6 +30,7 @@ flowchart LR
 
 - `docs/architecture.md` — component boundaries and trust model.
 - `docs/storage.md` — ZFS-oriented storage design and acceptance checklist.
+- `docs/SECURITY-STACK.md` — sanitised shape of a small self-hosted security stack, with the controls it needs and the ones it is missing.
 - `docs/security.md` — publication and operational-security rules.
 
 ## Scope
